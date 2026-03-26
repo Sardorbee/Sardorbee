@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I'm a Flutter developer with 1 year of experience building cross-platform mobile applications for both Android and iOS. I have a strong foundation in the Dart programming language and have worked extensively with Flutter widgets, state management (such as Provider and Riverpod), and backend integration using REST APIs and Firebase. With a focus on clean, maintainable code and optimized performance, I strive to deliver user-friendly and efficient mobile solutions. I'm eager to continue learning and contributing to innovative mobile app projects.
+<br>I'm a Flutter developer with 3 year of experience building cross-platform mobile applications for both Android and iOS. I have a strong foundation in the Dart programming language and have worked extensively with Flutter widgets, state management (such as Provider and Riverpod), and backend integration using REST APIs and Firebase. With a focus on clean, maintainable code and optimized performance, I strive to deliver user-friendly and efficient mobile solutions. I'm eager to continue learning and contributing to innovative mobile app projects.
 
 
 ## 🌐 Socials:
